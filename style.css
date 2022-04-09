@@ -1,0 +1,98 @@
+* {
+  text-align: center;
+}
+
+body {
+  margin: 0 80px;
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-image: url("https://img.freepik.com/vetores-gratis/fundo-preto-com-formas-onduladas_79603-1365.jpg?t=st=1647695423~exp=1647696023~hmac=3750e2777f491e254594047974ff95537322c20dbfc7a58ff408eb7121c6ed88&w=1380");
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+table {
+  width: 90%;
+  margin: 0 auto;
+  align-items: center;
+  border: 2px solid #ffffff;
+  border-collapse: collapse;
+  box-shadow: 0 1px 10px #ffffff;
+}
+
+h1 {
+  color: white;
+}
+
+th,
+tr,
+td {
+  border: solid 1px white;
+  color: white;
+  padding: 5px 0;
+}
+
+.botao {
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+#verde {
+  background-color: green;
+  color: white;
+}
+
+#verde:hover {
+  opacity: 0.7;
+}
+
+#branco {
+  background-color: white;
+}
+
+#branco:hover {
+  opacity: 0.7;
+}
+
+#vermelho {
+  background-color: red;
+  color: white;
+}
+
+#vermelho:hover {
+  opacity: 0.7;
+}
